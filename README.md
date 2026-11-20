@@ -1,5 +1,3 @@
-
-@'
 # Ejercicios de Kotlin
 
 **Alumno:** Luis Fernando Balderas Alvarez
@@ -28,5 +26,4 @@ Repositorio que contiene 14 ejercicios practicos desarrollados en Kotlin, corres
 ## Lenguaje utilizado
 
 - Kotlin
-- Java Runtime Environment (JRE)
-'@ | Set-Content README.md -Encoding UTF8
+- Java 
